@@ -1,8 +1,16 @@
 # Plasmid-
 
+# Simple Calculator Project
 
+This project is a basic calculator application built using HTML, CSS (with Bootstrap), and JavaScript. It supports essential arithmetic operations, including addition, subtraction, multiplication, division, modulus, and square calculations.
 
+# Features
 
+- **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
+- **Modulus Operation**: Calculate the remainder of division.
+- **Square Function**: Calculate the square of a number.
+- **Clear Functionality**: An `AC` (All Clear) button to reset the input and output.
+- **Responsive Design**: The calculator is fully responsive, making it usable on various screen sizes.
 
 
 
